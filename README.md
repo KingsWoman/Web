@@ -1,5 +1,5 @@
 # Web
 ## Задание 1: количество резюме в год
-![](img/image_1.png)
+![](imgage/image_1.png)
 ## Задание 2: средняя зарплата по годам
-![](img/image_2.png)
+![](image/image_2.png)
